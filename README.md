@@ -3,8 +3,7 @@
 ## Introduction
 
 This project is a simple mechanical design of a quadruped (four-legged) robot created using **Tinkercad**. The main goal of this project is to understand the basic mechanical concepts behind a walking robot, such as body structure, leg design, joints, and stability.
-
-As an Information Technology student, I had no previous experience in mechanical engineering. Therefore, this project focuses on learning the fundamentals rather than creating a fully functional robot.
+This project focuses on learning the fundamentals rather than creating a fully functional robot.
 
 ---
 
@@ -168,4 +167,4 @@ This project introduced the basic principles of quadruped robot mechanical desig
 
 Although the robot is a simple conceptual model, it includes the essential mechanical components such as the body, legs, joints, degrees of freedom, motor selection, center of gravity, and walking method.
 
-As a beginner with an Information Technology background, this project was a valuable opportunity to learn the basics of mechanical design and understand how mechanical and software engineering work together in robotics.
+As a beginner, this project was a valuable opportunity to learn the basics of mechanical design and understand how mechanical and software engineering work together in robotics.
